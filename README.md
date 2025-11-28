@@ -55,6 +55,8 @@ Clique no link abaixo para visitar a versão final do site:
 
 # 🔍 Comparação: Figma x Site Final
 
+Observação: A proporção dos elementos nas capturas do site final pode parecer diferente devido ao tamanho do monitor e ao uso de zoom reduzido para que toda a página apareça em um único print.
+
 ## ✔ Semelhanças
 - Paleta de cores fiel ao protótipo.
 - Estrutura das páginas mantida.
@@ -65,11 +67,15 @@ Clique no link abaixo para visitar a versão final do site:
 
 ## ✏ Diferenças Principais
 
+- Fontes de texto, não achamos igual.
+- pequenas modificações no desing, para deixar mais bonito/limpo.
+- botões do cabeçalho e alguns outros
+
 ### 🏠 Página Inicial
 - Ajustes leves de espaçamento.
 - Fontes e botões com pequenas variações.
 - Cards não ficaram 100% idênticos, mas preservam o estilo.
-- Efeito de hover reproduzido parcialmente.
+- Efeito de hover reproduzido parcialmente (representado pelo card  central amarelo no desing do Figma).
 - Barra de pesquisa e elementos reposicionados para responsividade.
 
 ### 👗 Página de Detalhes
@@ -82,7 +88,7 @@ Clique no link abaixo para visitar a versão final do site:
 - Layout ajustado.
 - Botão enviar modificado.
 - Campo "Assunto" adicionado.
-- Campos reorganizados e labels externas para melhor leitura.
+- Campos reorganizados e texto das labels externas para melhor leitura e desing.
 
 
 
