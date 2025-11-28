@@ -18,7 +18,7 @@ O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas
 Clique no link abaixo para visitar a versão final do site:
 
 🎀 **GitHub Pages:**  
-👉 [🌟 Acessar o site PituFofos! 🌟](COLE-SEU-LINK-AQUI)
+👉 [🌟 Acessar o site PituFofos! 🌟](https://maryaanee.github.io/Projeto-Final-Web1/)
 
 🐶🐱💖
 
