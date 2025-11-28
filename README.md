@@ -66,13 +66,14 @@ O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas
 ### ✔ Semelhanças
 - Paleta de cores fiel ao protótipo.
 - Estrutura e posicionamento mantidos.
-- Cards, tipografia e organização respeitam o design original.
 - Layout responsivo básico conforme planejado.
 
-### ✏ Pequenas diferenças
+### ✏ Diferenças
 - Ajustes mínimos de espaçamento para melhorar a usabilidade.
 - fonte dos textos diferente, o mais parecido possivel.
 - Pequenas diferenças nos botões e textos devido às limitações do CSS.
+  PÁG INICIAL:
+- Cards ligeiramente diferentes por limitações do css ( Não consegui recriar 100% igual, entretanto, deixei o mais parecido possivel. O card amarelo central no Figma representa a seleção do card ao passar o cursor do mouse por cima, consegui reproduzir apenas uma parte desse efeito no CSS).
 
 # 👩‍💻 Dupla
 
