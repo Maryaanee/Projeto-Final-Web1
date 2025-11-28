@@ -13,26 +13,18 @@ O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas
 
 ---
 
-# 🌐 Páginas Desenvolvidas
+# 🐾 Acesse o Site Oficial — PituFofos Moda Pet 💜✨
+ 
+Clique no link abaixo para visitar a versão final do site:
 
-## 🏠 Página Inicial – `index.html`
+🎀 **GitHub Pages:**  
+👉 [🌟 Acessar o site PituFofos! 🌟](COLE-SEU-LINK-AQUI)
 
----
-
-## 📘 Página de Detalhes – `detalhes.html`
-- Mostra um produto principal em destaque.
-
----
-
-## ✉ Página de Contato – `contato.html`
-- Contém um formulário completo com:
-  - Nome
-  - E-mail
-  - Assunto
-  - Mensagem
-  - Botão de envio  
+🐶🐱💖
 
 ---
+
+
 
 # 🖼 Prints do Protótipo (Figma)
 
@@ -63,17 +55,30 @@ O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas
 
 # 🔍 Comparação Figma x Site Final
 
-### ✔ Semelhanças
-- Paleta de cores fiel ao protótipo.
-- Estrutura e posicionamento mantidos.
-- Layout responsivo básico conforme planejado.
+## 🏠 **PÁGINA INICIAL**
+- Cards ligeiramente diferentes por limitações do CSS  
+  (Não conseguimos recriar 100% igual, mas deixamos o mais parecido possível).  
+- O card amarelo do Figma representa o hover; no CSS, apenas parte do efeito foi reproduzida.  
+- Posicionamento da barra de pesquisa e de alguns outros elementos.
 
-### ✏ Diferenças
-- Ajustes mínimos de espaçamento para melhorar a usabilidade.
-- fonte dos textos diferente, o mais parecido possivel.
-- Pequenas diferenças nos botões e textos devido às limitações do CSS.
-  PÁG INICIAL:
-- Cards ligeiramente diferentes por limitações do css ( Não consegui recriar 100% igual, entretanto, deixei o mais parecido possivel. O card amarelo central no Figma representa a seleção do card ao passar o cursor do mouse por cima, consegui reproduzir apenas uma parte desse efeito no CSS).
+---
+
+## 🧥 **PÁGINA DETALHES**
+- Ícone de salvamento da roupinha.  
+- Menu de seleção de tamanhos simplificado (para facilitar no CSS).  
+- Plano de fundo da imagem principal removido.  
+- Elementos da área de preço reposicionados por estética.
+
+---
+
+## 📞 **PÁGINA CONTATO**
+- Pequena alteração no design original.  
+- Botão “Enviar” modificado.  
+- Adicionado o campo **Assunto**.  
+- Alguns campos reposicionados.  
+- Nome dos campos colocado fora da área de digitação.
+
+---
 
 # 👩‍💻 Dupla
 
