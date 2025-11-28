@@ -53,32 +53,38 @@ Clique no link abaixo para visitar a versão final do site:
 
 ---
 
-# 🔍 Comparação Figma x Site Final
+# 🔍 Comparação: Figma x Site Final
 
-## 🏠 **PÁGINA INICIAL**
-- Cards ligeiramente diferentes por limitações do CSS  
-  (Não conseguimos recriar 100% igual, mas deixamos o mais parecido possível).  
-- O card amarelo do Figma representa o hover; no CSS, apenas parte do efeito foi reproduzida.  
-- Posicionamento da barra de pesquisa e de alguns outros elementos.
-
----
-
-## 🧥 **PÁGINA DETALHES**
-- Ícone de salvamento da roupinha.  
-- Menu de seleção de tamanhos simplificado (para facilitar no CSS).  
-- Plano de fundo da imagem principal removido.  
-- Elementos da área de preço reposicionados por estética.
+## ✔ Semelhanças
+- Paleta de cores fiel ao protótipo.
+- Estrutura das páginas mantida.
+- Layout responsivo básico.
+- Navegação e organização semelhantes ao Figma.
 
 ---
 
-## 📞 **PÁGINA CONTATO**
-- Pequena alteração no design original.  
-- Botão “Enviar” modificado.  
-- Adicionado o campo **Assunto**.  
-- Alguns campos reposicionados.  
-- Nome dos campos colocado fora da área de digitação.
+## ✏ Diferenças Principais
 
----
+### 🏠 Página Inicial
+- Ajustes leves de espaçamento.
+- Fontes e botões com pequenas variações.
+- Cards não ficaram 100% idênticos, mas preservam o estilo.
+- Efeito de hover reproduzido parcialmente.
+- Barra de pesquisa e elementos reposicionados para responsividade.
+
+### 👗 Página de Detalhes
+- Ícone de salvar estilizado.
+- Menu de tamanhos simplificado.
+- Fundo atrás da imagem principal removido.
+- Box de preço reorganizada.
+
+### 📩 Página de Contato
+- Layout ajustado.
+- Botão enviar modificado.
+- Campo "Assunto" adicionado.
+- Campos reorganizados e labels externas para melhor leitura.
+
+
 
 # 👩‍💻 Dupla
 
