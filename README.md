@@ -79,7 +79,6 @@ Observação: A proporção dos elementos nas capturas do site final pode parece
 
 ### 👗 Página de Detalhes
 - Ícone de salvar estilizado.
-- Menu de tamanhos simplificado.
 - Fundo atrás da imagem principal removido.
 - Box de preço reorganizada.
 
@@ -87,7 +86,7 @@ Observação: A proporção dos elementos nas capturas do site final pode parece
 - Layout ajustado.
 - Botão enviar modificado.
 - Campo "Assunto" adicionado.
-- Campos reorganizados e texto das labels externas para melhor leitura e desing.
+- Campos reorganizados e texto das labels foram colocados fora do label para melhor leitura e desing.
 
 
 
