@@ -12,14 +12,14 @@ O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas
 
 ---
 
-# 🐾 Acesse o Site Oficial — PituFofos Moda Pet 💜✨
+# 🐾 Acesse o Site — PituFofos Moda Pet 💜✨
  
 Clique no link abaixo para visitar o site no GitHub Pages:
 
 🎀 **GitHub Pages:**  
 👉 [🌟 Acessar o site PituFofos! 🌟](https://maryaanee.github.io/Projeto-Final-Web1/)
 
-🐶🐱💖
+🐶🐱
 
 ---
 
@@ -54,7 +54,7 @@ Clique no link abaixo para visitar o site no GitHub Pages:
 
 # 🔍 Comparação: Figma x Site Final
 
-Observação: A proporção dos elementos nas capturas do site final pode parecer diferente devido ao tamanho do monitor e ao uso de zoom reduzido para que toda a página apareça em um único print.
+- Observação: A proporção dos elementos nas capturas do site final pode parecer diferente devido ao tamanho do monitor e ao uso de zoom reduzido para que toda a página apareça em um único print.
 
 ## ✔ Semelhanças
 - Paleta de cores fiel ao protótipo.
@@ -74,7 +74,7 @@ Observação: A proporção dos elementos nas capturas do site final pode parece
 - Ajustes leves de espaçamento.
 - Fontes e botões com pequenas variações.
 - Cards não ficaram 100% idênticos, mas preservam o estilo.
-- Efeito de hover reproduzido parcialmente (representado pelo card  central amarelo no desing do Figma).
+- Efeito de hover no card reproduzido parcialmente (representado pelo card central amarelo no desing do Figma).
 - Barra de pesquisa e elementos reposicionados para responsividade.
 
 ### 👗 Página de Detalhes
@@ -86,7 +86,7 @@ Observação: A proporção dos elementos nas capturas do site final pode parece
 - Layout ajustado.
 - Botão enviar modificado.
 - Campo "Assunto" adicionado.
-- Campos reorganizados e texto das labels foram colocados fora do label para melhor leitura e desing.
+- Campos do formulário reorganizados e texto das labels foram colocados fora do label para melhor leitura e desing.
 
 
 
