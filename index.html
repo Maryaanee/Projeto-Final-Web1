@@ -1,208 +1,152 @@
 <!DOCTYPE html>
-<html> 
-  <head>
-    <title>Principal - Portfolio</title>
-    <link rel="stylesheet" href="css/style.css">
-  </head>
+<html>
 
-  <body>
-    <header class="cabecalho">
-      <div class="name-logo">
-      <img class="logo-header" src="img/flor-de-cerejeira.png" alt="Logo">
-      <h1 class="h1myname">Francisca Mariane Sousa Da Silva</h1>
-</div>
-      <nav class="nav-cabecalho">
-  <ul class="nav-cabecalho">
-    
-    <li>
-      <a class="nav-li-a" href="#sobre">
-        <img class="icon-menu" src="img/flor-borboleta.png" alt="">
-        Sobre mim
-      </a>
-    </li>
+<head>
+  <title>Principal</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
 
-    <li>
-      <a class="nav-li-a" href="#projetos">
-        <img class="icon-menu" src="img/editar-alt.png" alt="">
-        Projetos
-      </a>
-    </li>
+<body>
+  <header class="cabecalho">
+   <div class="logo-box">
+    <img src="img/mdi_pets.png" alt="Logo patinha" class="logo">
+    <div class="texto-logo">
+      <h1 class="texto-logo-h1">PITUFOFOS</h1>
+      <p class="texto-logo-p">moda pet</p>
+    </div>
+  </div>
 
-    <li>
-      <a class="nav-li-a" href="#habilidades">
-        <img class="icon-menu" src="img/equipamento-de-habilidade-do-usuario.png" alt="">
-        Habilidades
-      </a>
-    </li>
-
-    <li>
-      <a class="nav-li-a" href="#contato">
-        <img class="icon-menu" src="img/chamada-telefonica.png" alt="">
-        Contato
-      </a>
-    </li>
-
-  </ul>
-</nav>
-
+    <nav class="menu">
+      <ul class="menu-lista">
+        <li><a class="item" href="index.html">Inicio</a></li>
+        <li><a class="item" href="html/detalhes.html">Detalhes</a></li>
+        <li><a class="item" href="html/contato.html">Contato</a></li>
+      </ul>
+    </nav>
+  
     </header>
 
-    <main class="main-container">
-      <section id="sobre">
-        <h1 class="section-title">Sobre mim</h1>
-        <p class="paragrafo-sobre">
-          Sou Francisca Mariane Sousa da Silva, tenho 17 anos e curso o 2º ano do ensino médio no Instituto Federal Campus Maranguape.
-          Desde pequena, sempre fui movida pela curiosidade — aquela vontade de entender como as coisas funcionam e de aprender um pouco de tudo. 
-          Fora da área técnica, sou alguém que valoriza o equilíbrio entre mente e coração: sou uma pessoa sonhadora, detalhista e apaixonada por tudo o que envolve arte, animais, tecnologia e temas ligados à nutrição e bem-estar.
-        </p>
-
-        <p class="paragrafo-sobre">
-          No momento, estou aprendendo o universo da programação e do design, explorando linguagens como HTML, CSS e Java. 
-          Gosto de transformar ideias em algo visual e funcional, e acredito que a tecnologia é uma ponte entre a imaginação e a realidade.
-        </p>
-
-        <figure>
-          <img class="profile-image" src="img/fotopessoal.jpg" alt="Foto de Francisca Mariane" >
-          <figcaption>Foto pessoal</figcaption>
-        </figure>
-      </section>
-
-     <section id="projetos">
-  <h1 class="section-title">Projetos</h1>
-  <p>Aqui estão alguns dos projetos que desenvolvi até agora, clique no link para visualizar:</p>
-
-  <ul class="projetos-ul">
-    <li class="projetos-li">
-      <a class="link-a" href="https://youtu.be/SwrFRCGCd0s" target="_blank">Curta-metragem “Objetos sem Limites”</a> — 
-      Produção audiovisual inspirada no Festival do Minuto para um trabalho de Artes. 
-      Fui responsável pela criação do conceito, roteiro, gravação, edição e pela trilha sonora, 
-      usando o violão como símbolo central para representar a ideia de expressão e liberdade, 
-      expansão sem fim imaginação.
-    </li>
-
-    <li class="projetos-li" >
-      <a class="link-a" href="https://github.com/HadrielZ10/DevWeb-LandingPage-Projeto" target="_blank">Landing Page Educacional</a> — 
-      Página criada em HTML e CSS, desenvolvida em dupla para apresentar a formação e trajetória de Geni Estácio, apoio funcional do campus. 
-      O projeto teve como objetivo aplicar princípios de semântica, layout e design. 
-      Fui responsável em grande parte pelo CSS.
-    </li>
-
-    <li class="projetos-li">
-      <a class="link-a" href="https://youtu.be/H982OlmCwRk" target="_blank">Criação de vídeo aula: Administração de Servidores</a> — 
-      Produzida em equipe, essa vídeo aula teve como objetivo explicar conceitos sobre administração de servidores. 
-      Fui responsável pela edição e montagem do vídeo.
-    </li>
-
-    <li class="projetos-li">
-      <a class="link-a" href="https://github.com/Maryaanee/HTML-Projetos-DevWeb1-2025.2" target="_blank">Projetos de HTML</a> — 
-      Desenvolvidos na disciplina de Desenvolvimento Web, aplicando conceitos de estrutura semântica, formulários, tabelas e listas.
-    </li>
-
-    <li class="projetos-li">
-      <a class="link-a" href="https://github.com/Maryaanee/POO-2025.2-TIP4" target="_blank">Projeto de Programação Orientada a Objetos (Java)</a> — 
-      Criação de sistemas e códigos em java aplicando os fundamentos de POO, como classes, herança e encapsulamento.
-    </li>
-  </ul>
-</section>
-
-
-      <section id="habilidades">
-        <h2  class="section-title">Minhas Habilidades</h2>
-
-
-        <table class="table-container">
-          <thead class="thead">
-            <tr>
-              <th class="th-head">Tecnologia</th>
-              <th class="th-head">Nível de Conhecimento</th>
-              <th class="th-head">Tempo de Experiência</th>
-            </tr>
-          </thead>
-          <tbody>
-             <tr class="tbody-tr">
-        <td class="tbody-td">HTML</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">4 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">CSS</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">2 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">JAVA</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">4 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">MySQL</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">4 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">Python</td>
-        <td class="tbody-td">Básico / intermediário</td>
-        <td class="tbody-td">1 ano 6 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">C++</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">4 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">Shell Script</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">6 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">Design Digital</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">2 meses</td>
-    </tr>
-
-    <tr class="tbody-tr">
-        <td class="tbody-td">Edição de Vídeo</td>
-        <td class="tbody-td">Básico</td>
-        <td class="tbody-td">1 mês</td>
-    </tr>
-          </tbody>
-        </table>
-      </section>
-
-      <section id="contato">
-        <h2  class="section-title">Entre em Contato</h2>
-
-        <p><img class="icon-menu" src="img/novo-email.png" alt="">E-mail:  <a class="link-a" href="mailto:sa.mariane08@aluno.ifce.edu.br"> sa.mariane08@aluno.ifce.edu.br</a></p>
-        <p><img class="icon-menu" src="img/social.png" alt="">GitHub: <a class="link-a" href="https://github.com/Maryaanee" target="_blank">github.com/Maryaanee</a></p>
-
-        <form class="form" action="#" method="post">
-          <label class="label" for="nome">Nome:</label>
-          <input class="input-textarea" type="text" id="nome" name="nome" required>
-
-          <label class="label" for="email">E-mail:</label>
-          <input class="input-textarea" type="email" id="email" name="email" required>
-
-          <label class="label" for="assunto">Assunto:</label>
-          <input class="input-textarea" type="text" id="assunto" name="assunto" required>
-
-          <label class="label" for="mensagem">Mensagem:</label>
-          <textarea class="input-textarea" id="mensagem" name="mensagem" rows="5" required></textarea>
-
-          <button class="button" type="submit">Enviar</button>
+  <main>
+    
+    <section class="section-main">
+   
+        <div class="lado-esquerdo">
+        <form class="search-bar">
+            <input class="search-bar-input" type="text" placeholder="Busque por roupinhas..." />
+            <button class="search-bar-button" type="submit">🔍</button>
         </form>
-      </section>
-    </main>
+       </div>
 
-    <footer class="footer">
-      <p>Projeto escolar desenvolvido por Mariane Silva — 2025</p>
-     
+        <figure class="lado-direito">
+        <img class="gata-main" src="img/DaisyCatDressb-removebg-preview 1.png" alt="fotus" width="150">
+      </figure>
+        
+    </section>
+
+    <div class="retangulo">
+    <section class="section-card">
+      
+        <article class="section-card-article">
+            
+            <figure>
+                <img class="section-card-img" src="img/Image.png" alt="fotus" width="150">
+                <figcaption class="section-card-figcaption">Sir pitufofo</figcaption>
+            </figure>
+            <h3 class="card-title">Terno "Sir pitofofo"</h3>
+           <p class="card-price">R$ 55,60</p>
+           <p class="card-desc">Terno elegante para seu pet</p>
+        </article>
+
+        <article class="section-card-article">
+            
+            <figure>
+                <img class="section-card-img" src="img/Imagedogcasaco.png" alt="fotus" width="150">
+                <figcaption class="section-card-figcaption">Friozinho Fashion</figcaption>
+            </figure>
+            <h3 class="card-title">Casaco "Friozinho Fashion"</h3>
+            <p class="card-price">R$ 89,90</p>
+            <p class="card-desc">Jaqueta jeans com capuz estiloso</p>
+        
+        </article>
+
+        <article class="section-card-article">
+            
+            <figure>
+                <img class="section-card-img" src="img/Imageprincesapitufofa.png" alt="fotus" width="150">
+                <figcaption  class="section-card-figcaption">Princesa pitufofa</figcaption>
+            </figure>
+            <h3 class="card-title">Vestido "Princesa pitufofa"</h3>
+            <p class="card-price">R$ 59,90</p>
+            <p class="card-desc">Vestido delicado para gatas e cadelas, com babados e laços na cintura</p>
+        
+        </article>
+
+        <article class="section-card-article">
+            
+            <figure>
+                <img class="section-card-img" src="img/Imagebabyshark.png" alt="fotus" width="150">
+                <figcaption class="section-card-figcaption">Baby Shark</figcaption>
+            </figure>
+            <h3 class="card-title">Fantasia "Baby Shark"</h3>
+            <p class="card-price">R$ 70,00</p>
+            <p class="card-desc">Fantasia para seu pet</p>
+        
+        </article>
+
+        <article class="section-card-article">
+            
+            <figure>
+                <img class="section-card-img" src="img/Imagenatalina.png" alt="fotus" width="150">
+                <figcaption class="section-card-figcaption">Natalina pitufofa</figcaption>
+            </figure>
+            <h3 class="card-title">Vestido "Natalina Pitufofa"</h3>
+            <p class="card-price">R$ 75,90</p>
+            <p class="card-desc">Vestido quentinho para o natal</p>
+        
+        </article>
+    
+    </section>
+    </div>
+
+  </main>
+
+  <footer>
+
+        <div class="footer-div">
+            <div class="logo-box-footer">
+            <figure>
+                <img class="logo-footer" src="img/mdi_pets.png" alt="fotus" width="100">
+            </figure>
+            <div class="footer-texto-logo">
+      <h1 class="footer-texto-logo-h1">PITUFOFOS</h1>
+      <p class="footer-texto-logo-p">moda pet</p>
+      <p class="footer-subtexto">Moda que deixa seu</p>
+      <p class="footer-subtexto">bichinho fofo e estiloso!</p>
+        </div>
+        </div>
+        </div>
+
+        <div class="footer-div">
+                
+            <h3>Autores</h3>
+                    
+                <ul class="footer-ul">
+                    <li><a class="verde-driel" href="">jose.hadriel10@aluno.ifce.edu.br - 20241321000043</a></li>
+                    <li><a class="rose-mary" href="">sa.mariane08@aluno.ifce.edu.br - 20241321000031</a></li>
+                </ul>
+
+                <p class="verde-driel">José Hadriel Miranda dos Santos</p>
+                <p class="rose-mary" >Francisca Mariane Sousa da Silva</p>
+                
+        </div>        
+
+        <div class="footer-div">
+            <p><a class="footer-contato" href="">contato@pitufofos.com.br</a></p>
+            <p><a class="footer-contato-verde"href="">+55 85 4002-8922</a></p>
+        </div>
+    
     </footer>
-  </body>
+
+</body>
+
 </html>
