@@ -36,13 +36,15 @@ O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas
 
 # 🖼 Prints do Protótipo (Figma)
 
-![Página Inicial – Figma](img/pag inicio figma.png)
+### • Página de Início – Figma  
+![Página Inicial – Figma](img/pag%20inicio%20figma.png)
 
 ### • Página de Detalhes – Figma  
-![Página de Detalhes – Figma](img/pag detalhes figma.png)
+![Página de Detalhes – Figma](img/pag%20detalhes%20figma.png)
 
 ### • Página de Contato – Figma  
-![Página de Contato – Figma](img/pag contato figma.png)
+![Página de Contato – Figma](img/pag%20contato%20figma.png)
+
 
 ---
 
