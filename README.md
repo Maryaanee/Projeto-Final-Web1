@@ -46,7 +46,7 @@ Clique no link abaixo para visitar a versão final do site:
 ![Página Inicial HTML/CSS](img/print-inicio-pages.png)
 
 ### • Página de Detalhes
-![Página de Detalhes HTML/CSS](img/print-detalhes-pages.png)
+![Página de Detalhes HTML/CSS](img/print-detalhe-pages.png)
 
 ### • Página de Contato
 ![Página de Contato HTML/CSS](img/print-contato-pages.png)
