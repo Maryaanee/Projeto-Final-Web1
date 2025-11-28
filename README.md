@@ -43,13 +43,13 @@ Clique no link abaixo para visitar a versão final do site:
 # 💻 Prints do Site Final
 
 ### • Página Inicial
-![Página Inicial HTML/CSS](img/prints_site/index_html.png)
+![Página Inicial HTML/CSS](img/print-inicio-pages.png)
 
 ### • Página de Detalhes
-![Página de Detalhes HTML/CSS](img/prints_site/detalhes_html.png)
+![Página de Detalhes HTML/CSS](img/print-detalhes-pages.png)
 
 ### • Página de Contato
-![Página de Contato HTML/CSS](img/prints_site/contato_html.png)
+![Página de Contato HTML/CSS](img/print-contato-pages.png)
 
 ---
 
