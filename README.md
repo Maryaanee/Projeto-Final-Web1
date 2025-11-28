@@ -1,2 +1,86 @@
-# Portf-lio-WEB1-Projeto
-HTML e CSS desenvolvimento web1
+
+
+# 🐾 Pitufofos – Moda Pet  
+### Projeto Final – Desenvolvimento Web I  
+
+---
+
+## 📌 Descrição do Projeto
+
+Este repositório contém o projeto final da disciplina **Desenvolvimento Web I**, onde o objetivo foi transformar um protótipo criado no **Figma** em um site funcional utilizando apenas **HTML e CSS**.
+
+O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas para pets, seguindo um visual fofinho, colorido e confortável — tudo planejado previamente no protótipo do Figma.
+
+---
+
+# 🌐 Páginas Desenvolvidas
+
+## 🏠 Página Inicial – `index.html`
+
+---
+
+## 📘 Página de Detalhes – `detalhes.html`
+- Mostra um produto principal em destaque.
+
+---
+
+## ✉ Página de Contato – `contato.html`
+- Contém um formulário completo com:
+  - Nome
+  - E-mail
+  - Assunto
+  - Mensagem
+  - Botão de envio  
+
+---
+
+# 🖼 Prints do Protótipo (Figma)
+
+### • Página Inicial
+![Protótipo da Página Inicial](img/prints_figma/index_figma.png)
+
+### • Página de Detalhes
+![Protótipo da Página de Detalhes](img/prints_figma/detalhes_figma.png)
+
+### • Página de Contato
+![Protótipo da Página de Contato](img/prints_figma/contato_figma.png)
+
+---
+
+# 💻 Prints do Site Final
+
+### • Página Inicial
+![Página Inicial HTML/CSS](img/prints_site/index_html.png)
+
+### • Página de Detalhes
+![Página de Detalhes HTML/CSS](img/prints_site/detalhes_html.png)
+
+### • Página de Contato
+![Página de Contato HTML/CSS](img/prints_site/contato_html.png)
+
+---
+
+# 🔍 Comparação Figma x Site Final
+
+### ✔ Semelhanças
+- Paleta de cores fiel ao protótipo.
+- Estrutura e posicionamento mantidos.
+- Cards, tipografia e organização respeitam o design original.
+- Layout responsivo básico conforme planejado.
+
+### ✏ Pequenas diferenças
+- Ajustes mínimos de espaçamento para melhorar a usabilidade.
+- fonte dos textos diferente, o mais parecido possivel.
+- Pequenas diferenças nos botões e textos devido às limitações do CSS.
+
+# 👩‍💻 Autores
+
+- **Francisca Mariane Sousa da Silva**  
+- **José Hadriel Miranda dos Santos**  
+📅 **Ano: 2025.2**
+
+---
+
+<p align="center">
+  ✨🐶 *Pitufofos – Moda Pet: estilo e fofura para o seu melhor amigo!* 🐾✨
+</p>
