@@ -7,7 +7,7 @@
 
 ## 📌 Descrição do Projeto
 
-Este repositório contém o projeto final da disciplina **Desenvolvimento Web I**, onde o objetivo foi transformar um protótipo criado no **Figma** em um site funcional utilizando apenas **HTML e CSS**.
+Este repositório contém o projeto final da disciplina **Desenvolvimento Web I** lecionada pelo professor Thomaz, onde o objetivo foi transformar um protótipo criado no **Figma** em um site funcional utilizando apenas **HTML e CSS**.
 
 O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas para pets, seguindo um visual fofinho, colorido e confortável — tudo planejado previamente no protótipo do Figma.
 
@@ -73,7 +73,7 @@ O site **Pitufofos – Moda Pet** apresenta uma coleção adorável de roupinhas
 - fonte dos textos diferente, o mais parecido possivel.
 - Pequenas diferenças nos botões e textos devido às limitações do CSS.
 
-# 👩‍💻 Autores
+# 👩‍💻 Dupla
 
 - **Francisca Mariane Sousa da Silva**  
 - **José Hadriel Miranda dos Santos**  
